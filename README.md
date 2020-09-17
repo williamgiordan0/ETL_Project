@@ -25,5 +25,3 @@ Load
 Table schema were created in PostgreSQL and all data was uploaded to create a sports database.
 SQL Table Schmea
 
-Report
-Full report can be found here: Final Report
